@@ -6,7 +6,6 @@ A historical tech tree for Kerbal Space Program
 ### American
 
 * Bluedog Design Bbureau
-* SSTU Nova Add-on
 * CxAreospace
 * FASA
 * DIRECT
@@ -43,3 +42,4 @@ A historical tech tree for Kerbal Space Program
 ### Both/Other
 
 * KW Rocketry
+* SSTU Nova Add-on
