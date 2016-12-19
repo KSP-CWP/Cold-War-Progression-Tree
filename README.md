@@ -39,3 +39,4 @@ A historical tech tree for Kerbal Space Program
 ### Both/Other
 
 * SSTU Nova Add-on
+* Dmagic Orbital Science
