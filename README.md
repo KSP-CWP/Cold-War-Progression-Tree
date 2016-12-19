@@ -6,16 +6,17 @@ A historical tech tree for Kerbal Space Program
 ### American
 
 * Bluedog Design Bbureau
-* SSTU Expansion
 * SSTU Nova Add-on
 * CxAreospace
 * FASA
+* DIRECT
 
 ### Russian
 
 * Tantares
 * AB Launchers
 * Bobcat
+* KOSMOS
 
 ### Both/Other
 
@@ -25,3 +26,4 @@ A historical tech tree for Kerbal Space Program
 * Shuttle Payload Technologies
 * Contares
 * KW Rocketry
+* SSTU Expansion
