@@ -24,7 +24,6 @@ A historical tech tree for Kerbal Space Program
 * SSTU
 * Shuttle Payload Technologies
 * Contares
-* KW Rocketry
 * SSTU Expansion
 
 ## Supported Mods
