@@ -27,3 +27,19 @@ A historical tech tree for Kerbal Space Program
 * Contares
 * KW Rocketry
 * SSTU Expansion
+
+## Supported Mods
+
+### American
+
+* FASA
+* DIRECT
+
+### Russian
+
+* Bobcat
+* KOSMOS
+
+### Both/Other
+
+* KW Rocketry
