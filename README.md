@@ -31,16 +31,12 @@ A historical tech tree for Kerbal Space Program
 
 ### American
 
-* FASA
 * DIRECT
 
 ### Russian
 
-* Bobcat
 * KOSMOS
 
 ### Both/Other
 
-* KW Rocketry
 * SSTU Nova Add-on
-* SXT
