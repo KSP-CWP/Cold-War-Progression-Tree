@@ -43,3 +43,4 @@ A historical tech tree for Kerbal Space Program
 
 * KW Rocketry
 * SSTU Nova Add-on
+* SXT
