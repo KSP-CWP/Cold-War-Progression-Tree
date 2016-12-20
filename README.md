@@ -5,7 +5,7 @@ A historical tech tree for Kerbal Space Program
 
 ### American
 
-* Bluedog Design Bbureau
+* Bluedog Design Bureau
 * CxAreospace
 * DIRECT
 * SDHI Service Module System
@@ -15,6 +15,7 @@ A historical tech tree for Kerbal Space Program
 * Tantares
 * AB Launchers
 * Bobcat Soviet Engine Pack
+* Tantares Fairing Expansion
 
 ### Both/Other
 
