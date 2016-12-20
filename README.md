@@ -7,15 +7,12 @@ A historical tech tree for Kerbal Space Program
 
 * Bluedog Design Bbureau
 * CxAreospace
-* FASA
 * DIRECT
 
 ### Russian
 
 * Tantares
 * AB Launchers
-* Bobcat
-* KOSMOS
 
 ### Both/Other
 
@@ -29,8 +26,6 @@ A historical tech tree for Kerbal Space Program
 ## Supported Mods
 
 ### American
-
-* DIRECT
 
 ### Russian
 
