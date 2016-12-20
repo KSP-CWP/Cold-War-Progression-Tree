@@ -8,11 +8,13 @@ A historical tech tree for Kerbal Space Program
 * Bluedog Design Bbureau
 * CxAreospace
 * DIRECT
+* SDHI Service Module System
 
 ### Russian
 
 * Tantares
 * AB Launchers
+* Bobcat Soviet Engine Pack
 
 ### Both/Other
 
@@ -30,6 +32,8 @@ A historical tech tree for Kerbal Space Program
 ### Russian
 
 * KOSMOS
+* Soviet Probes & Soviet Rockets
+* Salyut Stations
 
 ### Both/Other
 
