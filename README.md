@@ -8,7 +8,6 @@ A historical tech tree for Kerbal Space Program
 * Bluedog Design Bureau
 * CxAreospace
 * DIRECT
-* SDHI Service Module System
 
 ### Russian
 
