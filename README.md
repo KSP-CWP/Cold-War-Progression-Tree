@@ -13,7 +13,6 @@ A historical tech tree for Kerbal Space Program
 
 * Tantares
 * AB Launchers
-* Bobcat Soviet Engine Pack
 * Tantares Fairing Extension
 
 ### Both/Other
