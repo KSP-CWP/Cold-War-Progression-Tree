@@ -11,7 +11,8 @@ A historical tech tree for Kerbal Space Program
 
 ### Russian
 
-* Tantares
+* Tantares (Old & New)
+* TantaresLV (Old & New)
 * AB Launchers
 * Tantares Fairing Extension
 
@@ -20,13 +21,14 @@ A historical tech tree for Kerbal Space Program
 * Cormorant Aeronology
 * Taerobee
 * SSTU
-* Shuttle Payload Technologies
 * Contares
 * SSTU Expansion
 
 ## Supported Mods
 
 ### American
+
+* Shuttle Payload Technologies
 
 ### Russian
 
@@ -38,3 +40,5 @@ A historical tech tree for Kerbal Space Program
 
 * SSTU Nova Add-on
 * Dmagic Orbital Science
+* SXT
+* USI Sounding Rockets
