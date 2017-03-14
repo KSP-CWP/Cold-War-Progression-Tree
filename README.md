@@ -2,6 +2,11 @@
 http://forum.kerbalspaceprogram.com/index.php?/topic/153744-cold-war-progression-techtree-mod-for-ksp/
 A historical tech tree for Kerbal Space Program
 
+## REQUIRED MODS
+
+* Younge Tech Trees plugin (included)
+* Module Manager (not included)
+
 ## Recommended Mods
 
 ### American
