@@ -21,6 +21,7 @@ A historical tech tree for Kerbal Space Program
 * TantaresLV (Old & New)
 * AB Launchers
 * Tantares Fairing Extension
+* Raidernick Soviet Probes
 
 ### Both/Other
 
