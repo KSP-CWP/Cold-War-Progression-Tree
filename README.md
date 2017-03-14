@@ -1,4 +1,5 @@
 # Cold-War-Progression-Tree
+http://forum.kerbalspaceprogram.com/index.php?/topic/153744-cold-war-progression-techtree-mod-for-ksp/
 A historical tech tree for Kerbal Space Program
 
 ## Recommended Mods
@@ -11,7 +12,8 @@ A historical tech tree for Kerbal Space Program
 
 ### Russian
 
-* Tantares
+* Tantares (Old & New)
+* TantaresLV (Old & New)
 * AB Launchers
 * Tantares Fairing Extension
 
@@ -20,13 +22,14 @@ A historical tech tree for Kerbal Space Program
 * Cormorant Aeronology
 * Taerobee
 * SSTU
-* Shuttle Payload Technologies
 * Contares
 * SSTU Expansion
 
 ## Supported Mods
 
 ### American
+
+* Shuttle Payload Technologies
 
 ### Russian
 
@@ -38,3 +41,6 @@ A historical tech tree for Kerbal Space Program
 
 * SSTU Nova Add-on
 * Dmagic Orbital Science
+* SXT
+* USI Sounding Rockets
+* TAC Life Support
