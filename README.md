@@ -30,13 +30,16 @@ A historical tech tree for Kerbal Space Program
 * SSTU
 * Contares
 * SSTU Expansion
-* Sigma Dimensions (or any mod to allow for x2.5-x3.2 rescales)
+* Quarter Scale RSS
+* Airplane Plus *and/or* SXT
+* Coatl Aerospace ProbesPlus
 
 ## Supported Mods
 
 ### American
 
 * Shuttle Payload Technologies
+* MK-X
 
 ### Russian
 
@@ -52,3 +55,8 @@ A historical tech tree for Kerbal Space Program
 * USI Sounding Rockets
 * TAC Life Support
 * Contract Pack: Historical Progression
+* USI Life Support
+* MK4 System
+* Sigma Dimensions (for x2.5-x3.2 rescale)
+* Career Evolution Contract Pack
+
