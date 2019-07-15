@@ -2,7 +2,7 @@ import re
 import sys
 
 nodere = re.compile(r"RDNode\s*\{\s*id = (\w*).*?title = (.*?)\n.*?Unlocks\s*\{([^}]+)\s*\}", re.DOTALL)
-partre = re.compile(r"part = (\w+)")
+partre = re.compile(r"part = (.+?)\n")
 unlocks = re.compile(r"Unlocks\s*\{([^}]+)\s*\}\n")
 
 tree = sys.argv[1].split(".")[0]
@@ -15,9 +15,8 @@ with open(tree + "_patches.cfg", "w") as patches:
 		print(f"Converted {i} nodes\r", end="")
 		node, name, parts = n.groups()
 		patches.write(f"// {name}\n")
-		for p in partre.finditer(parts):
-			part = p.group(1)
-			patches.write(f"""\
+		part = "|".join(p.group(1) for p in partre.finditer(parts))
+		patches.write(f"""\
 @PART[{part}]
 {{
   @TechRequired = {node}
