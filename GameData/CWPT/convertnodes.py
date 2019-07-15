@@ -16,8 +16,9 @@ with open(tree + "_patches.cfg", "w") as patches:
 		node, name, parts = n.groups()
 		patches.write(f"// {name}\n")
 		part = "|".join(p.group(1) for p in partre.finditer(parts))
-		patches.write(f"""\
-@PART[{part}]
+		if part:
+			patches.write(f"""\
+@PART[{part}]:AFTER[CWPT]
 {{
   @TechRequired = {node}
 }}\n""")
