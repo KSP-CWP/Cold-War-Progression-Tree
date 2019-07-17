@@ -841,14 +841,14 @@ TechTree
 		Parent
 		{
 			parentID = spaceplanedocking
-			lineFrom = LEFT
+			lineFrom = TOP
 			lineTo = RIGHT
 		}
 		Parent
 		{
 			parentID = internationalcraft2
 			lineFrom = RIGHT
-			lineTo = LEFT
+			lineTo = BOTTOM
 		}
 		Unlocks
 		{
@@ -4339,7 +4339,7 @@ TechTree
 		title = Vega
 		description = We extended the balloon tank concept to an upper stage. Very efficient, just don't bring any sharp implements near it.
 		cost = 25
-		pos = -2505,330,-1
+		pos = -2625,100,-1
 		icon = CWPT/Icons/cwp_icon_Vega
 		anyParent = False
 		hideEmpty = False
@@ -4532,7 +4532,6 @@ TechTree
 			part = SSTU-SC-ENG-RL10A-5
 			part = SSTU-SC-ENG-RL10A-4
 			part = bluedog_Centaur_SmallRCS
-			part = bluedog_centaur1875mAdapterFairing
 		}
 	}
 	RDNode
