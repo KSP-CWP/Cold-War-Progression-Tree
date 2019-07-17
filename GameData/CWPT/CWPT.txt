@@ -658,6 +658,7 @@ TechTree
 			part = TLV_Fairing_B
 			part = bluedog_Diamant_Rita
 			part = cryoengine-125-1
+			part = engineLargeSkipper
 		}
 	}
 	RDNode
@@ -1052,6 +1053,8 @@ TechTree
 			part = TLV_1_LFO_1
 			part = TLV_1_LFO_2
 			part = LLV_E_Decoupler_1
+			part = restock-engine-ursa-1
+			part = LiquidEngineRK-7
 		}
 	}
 	RDNode
@@ -2027,6 +2030,7 @@ TechTree
 			part = NK33_StockVersion
 			part = NK43_StockVersion
 			part = SXTK1BaseLarge
+			part = liquidEngine1-2
 		}
 	}
 	RDNode
@@ -2148,6 +2152,7 @@ TechTree
 			part = rn_r7_adapter_blok_i
 			part = rn_r7_blok_i_fairing
 			part = ca_linkor
+			part = restock-engine-125-pug
 		}
 	}
 	RDNode
@@ -2747,6 +2752,7 @@ TechTree
 			part = Union-2-UpperCore
 			part = RK-Z-108
 			part = ADAPTER_BLOCK_I2
+			part = liquidEngine2-2_v2
 		}
 	}
 	RDNode
@@ -3093,6 +3099,7 @@ TechTree
 			part = LifeSupportMiniPack
 			part = FertilizerMiniPack
 			part = MulchMiniPack
+			part = restock-engine-125-valiant
 		}
 	}
 	RDNode
@@ -3245,6 +3252,8 @@ TechTree
 			part = USILS_SmCupola
 			part = Fert_Tank_125
 			part = LS_Tank_375
+			part = ionEngine
+			part = xenonTankRadial
 		}
 	}
 	RDNode
@@ -3331,6 +3340,8 @@ TechTree
 			part = mumech_MJ2_AR202_features2
 			part = USILS_Greenhouse_Inline
 			part = Fert_Tank_375
+			part = xenonTankLarge
+			part = xenonTank
 		}
 	}
 	RDNode
@@ -3593,6 +3604,8 @@ TechTree
 			part = bluedog_Apollo_Block2_Decoupler
 			part = bluedog_Apollo_Block2_ActiveDockingMechanism
 			part = bluedog_Apollo_Block2_PassiveDockingMechanism
+			part = LiquidEngineRE-J10
+			part = restock-engine-schnauzer-1
 		}
 	}
 	RDNode
@@ -3656,6 +3669,7 @@ TechTree
 			part = bluedog_Juno_9375mAdapter
 			part = bluedog_thor9375mAdapter
 			part = bluedog_125mDecoupler
+			part = liquidEngine
 		}
 	}
 	RDNode
@@ -4193,7 +4207,6 @@ TechTree
 			part = bluedog_atlas1AdapterTank
 			part = bluedog_atlas1LongTank
 			part = bluedog_atlasBoosterFairing
-			part = bluedog_atlasBoosterFairing
 		}
 	}
 	RDNode
@@ -4218,6 +4231,7 @@ TechTree
 		Unlocks
 		{
 			part = bluedog_atlasSustainer
+			part = liquidEngine2
 		}
 	}
 	RDNode
@@ -4449,6 +4463,7 @@ TechTree
 			part = RSBfinSaturnSIwhiteL
 			part = RSBfinSaturnSIwhiteS
 			part = RSBtankSaturnSIB
+			part = restock-engine-torch
 		}
 	}
 	RDNode
@@ -4685,6 +4700,8 @@ TechTree
 			part = RSBtankSaturnSIVB
 			part = RSBullageSaturnSIVB
 			part = RSBfairingSaturn6m
+			part = restock-engine-caravel-1
+			part = LiquidEngineRE-I2
 		}
 	}
 	RDNode
@@ -5828,6 +5845,7 @@ TechTree
 		Unlocks
 		{
 			part = SSTU-SC-ENG-NRV2
+			part = restock-engine-cherenkov
 		}
 	}
 	RDNode
@@ -5890,6 +5908,7 @@ TechTree
 		Unlocks
 		{
 			part = SSTU-SC-C-HUS
+			part = restock-engine-375-corgi
 		}
 	}
 	RDNode
@@ -6075,6 +6094,7 @@ TechTree
 		{
 			part = SSTU-SC-ENG-J-2X
 			part = cryoengine-25-2
+			part = Size3AdvancedEngine
 		}
 	}
 	RDNode
@@ -6105,6 +6125,8 @@ TechTree
 		Unlocks
 		{
 			part = SSTU-SC-ENG-F1B
+			part = restock-engine-boar
+			part = Size2LFB
 		}
 	}
 	RDNode
