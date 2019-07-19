@@ -103,7 +103,7 @@ TechTree
 		id = USSRstart
 		nodepart = USSRstart
 		title = Soviet Suborbital Rocketry
-		description = 
+		description = They told us we were gonna have to be launching really big "payloads", so we designed some really big rockets. Unfortunately we don't have the funding for any of those, so have these instead.
 		cost = 20
 		pos = -2800,1550,-1
 		icon = RDicon_rocketry-basic
@@ -198,7 +198,7 @@ TechTree
 		id = aerospace1
 		nodepart = aerospace1
 		title = Small fuselages
-		description = 
+		description = Someone had the brighht idea of removing the bomb bays from our planes and installing passenger seats. Lets just hope they remembered to remove the release mechanism too
 		cost = 7
 		pos = -2795,1255,-1
 		icon = Squad/PartList/SimpleIcons/cs_size0
@@ -3046,7 +3046,7 @@ TechTree
 		id = science1
 		nodepart = science1
 		title = Early Scientific Instruments
-		description = 
+		description = Someone said we don't know if there's actually air in space. We're pretty sure they're a crank, but we decided to lob a barometer into orbit to make sure anyway.
 		cost = 15
 		pos = -2750,1405,-1
 		icon = RDicon_scienceTech
@@ -3107,7 +3107,7 @@ TechTree
 		id = science2
 		nodepart = science2
 		title = Scientific Instruments
-		description = 
+		description = They told us we could get a tax credit for buting rooftop solar, so we put some on our spacecraft. We bought a bunch of new toys with the money, so in hindsight we didnt really save anything.
 		cost = 20
 		pos = -2650,1405,-1
 		icon = RDicon_electrics-advanced
@@ -3153,7 +3153,7 @@ TechTree
 		id = science3
 		nodepart = science3
 		title = Advanced Instruments
-		description = 
+		description = After one of our technicians dropped his phone into a large bowl, we came up with some ideas for better communications equipment.
 		cost = 35
 		pos = -2500,1405,-1
 		icon = RDicon_nanolathing
@@ -3207,7 +3207,7 @@ TechTree
 		id = science4
 		nodepart = science4
 		title = Interplanetary Instrumentation
-		description = 
+		description = After one of our astronomers realized those smudges on his telescpoe were actually other planets, we decided to send some probes there. 
 		cost = 90
 		pos = -2350,1405,-1
 		icon = RDicon_unmanned-advanced
@@ -3261,7 +3261,7 @@ TechTree
 		id = science5
 		nodepart = science5
 		title = Surface-Based Instrumentation
-		description = 
+		description = Now that we have that whole "landing in one piece" thing down, we decided to give our crews some fun activities to do while they're there. Nobody tell them that the buttons don't actually do anything.
 		cost = 150
 		pos = -2205,1405,-1
 		icon = RDicon_scienceTech-advanced
@@ -3312,7 +3312,7 @@ TechTree
 		id = science6
 		nodepart = science6
 		title = Long-term Experimentation
-		description = 
+		description = Some of our scientists were getting really annoying, so we sent them to space and told them to do research there.
 		cost = 200
 		pos = -2025,1405,-1
 		icon = RDicon_science-experimental
@@ -3372,7 +3372,7 @@ TechTree
 		id = USprobes1
 		nodepart = USprobes1
 		title = Early American Probes
-		description = 
+		description = One of our engineers had the idea to take a firework and replace the explosives with scientific instruments. Happy 4th of Kuly, everyone.
 		cost = 18
 		pos = -2675,1100,-1
 		icon = CWPT/Icons/cwp_icon_Gato
@@ -3403,7 +3403,7 @@ TechTree
 		id = USprobes2
 		nodepart = USprobes2
 		title = Lunar Probes
-		description = 
+		description = Our rivals crashed a probe into the moon, so we decided to crash an even bigger one.
 		cost = 30
 		pos = -2550,1100,-1
 		icon = CWPT/Icons/cwp_icon_Gato
@@ -3435,7 +3435,7 @@ TechTree
 		id = USProbes3
 		nodepart = USProbes3
 		title = Advanced Lunar Probes
-		description = 
+		description = Landing is just crashing really carefully, right?
 		cost = 60
 		pos = -2375,1100,-1
 		icon = CWPT/Icons/cwp_icon_Gato
@@ -3466,7 +3466,7 @@ TechTree
 		id = USprobes4
 		nodepart = USprobes4
 		title = Interplanetary Probes
-		description = 
+		description = We've gotta find out what those kommies are up to on the "red" planet.
 		cost = 100
 		pos = -2225,1100,-1
 		icon = CWPT/Icons/cwp_icon_Gato
@@ -3494,7 +3494,7 @@ TechTree
 		id = mercury
 		nodepart = mercury
 		title = Mercury
-		description = 
+		description = Basically a tin can with air inside. Computer navigation hardware was deemed "superfluous mass", so be sure to bring a star chart. 
 		cost = 22
 		pos = -2600,1000,-1
 		icon = CWPT/Icons/cwp_icon_Mercury
@@ -3524,7 +3524,7 @@ TechTree
 		id = gemini
 		nodepart = gemini
 		title = Gemini
-		description = 
+		description = If we ever want to get to the Mun, we're gonna have to figure out how to attach two spacecraft together, and duct tape isn't gonna cut it.
 		cost = 60
 		pos = -2375,1000,-1
 		icon = CWPT/Icons/cwp_icon_Gemini
@@ -3556,7 +3556,7 @@ TechTree
 		id = apollo
 		nodepart = apollo
 		title = Apollo
-		description = 
+		description = Despite being named for an ancient sun god, please do not attempt to land on the sun, even if you go at night.
 		cost = 125
 		pos = -2200,1000,-1
 		icon = CWPT/Icons/cwp_icon_ApolloCSM
@@ -3613,7 +3613,7 @@ TechTree
 		id = gemini2
 		nodepart = gemini2
 		title = Advanced Gemini
-		description = 
+		description = We decided the "make it bigger" strategy was working so far, so we decided not to mess with a winning idea.
 		cost = 100
 		pos = -2295,925,-1
 		icon = CWPT/Icons/cwp_icon_Gemini
@@ -3645,7 +3645,7 @@ TechTree
 		id = redstone
 		nodepart = redstone
 		title = Redstone
-		description = 
+		description = A missile and a rocket have essentially the same goal: launch a delicate payload, then bring it back safely (for certain definitions of safe). So we decided to make one that could do both
 		cost = 10
 		pos = -2725,850,-1
 		icon = CWPT/Icons/cwp_icon_Gato
@@ -3706,7 +3706,7 @@ TechTree
 		id = mercury2
 		nodepart = mercury2
 		title = Advanced Mercury
-		description = 
+		description = In response to complaints about our previous capsule being "cramped", we made it bigger. But then they told us two people had to fit, so now it's back to being too small. Ejection seats still in beta testing.
 		cost = 35
 		pos = -2450,1000,-1
 		icon = CWPT/Icons/cwp_icon_Mercury
@@ -4184,7 +4184,7 @@ TechTree
 		id = atlas1
 		nodepart = atlas1
 		title = Atlas A
-		description = Contrary to what the name suggests, "baloon tanks" do not actually lift the rocket up using helium.
+		description = Our initial design for "balloon tanks" failed due to a helium shortage, so we decided to add rocket engines and call it a day.
 		cost = 30
 		pos = -2725,475,-1
 		icon = CWPT/Icons/cwp_icon_Gato
@@ -5083,7 +5083,7 @@ TechTree
 		id = USprobes5
 		nodepart = USprobes5
 		title = Advanced Interplanetary probes
-		description = 
+		description = With great antennas comes great phone signal. You can probably also use these to communicate with probes that are very far away.
 		cost = 160
 		pos = -2030,1100,-1
 		icon = CWPT/Icons/cwp_icon_Gato
@@ -5112,7 +5112,7 @@ TechTree
 		id = USprobes6
 		nodepart = USprobes6
 		title = Deep Space Probes
-		description = 
+		description = Our astrologers said something about a "once-in-a lifetime alignment of planets", so we decided to take advantage of the auspicious omen.
 		cost = 180
 		pos = -1940,1100,-1
 		icon = CWPT/Icons/cwp_icon_Gato
@@ -5250,7 +5250,7 @@ TechTree
 		id = srbx
 		nodepart = srbx
 		title = SRB-X
-		description = 
+		description = Why. Just why.
 		cost = 250
 		pos = -1795,650,-1
 		icon = CWPT/Icons/cwp_icon_Gato
@@ -5978,7 +5978,7 @@ TechTree
 		id = USprobes8
 		nodepart = USprobes8
 		title = Super Advanced Probes
-		description = 
+		description = Warranty does not cover these probes becoming sentient and overthrowing their creators
 		cost = 1000
 		pos = -1275,1100,-1
 		icon = CWPT/Icons/cwp_icon_Gato
@@ -6638,7 +6638,7 @@ TechTree
 		id = props
 		nodepart = props
 		title = Advanced propellers
-		description = 
+		description = After a few attempts at creating flying lawnmowers failed tragically, we decided to reuse the parts for a saner purpose.
 		cost = 3
 		pos = -2950,1300,-1
 		icon = Squad/PartList/SimpleIcons/R&D_node_icon_highaltitudeflight
@@ -6671,7 +6671,7 @@ TechTree
 		id = jets1
 		nodepart = jets1
 		title = Turbojet Engines
-		description = 
+		description = An enginners attempt to boost his vacumn cleaner with jet engines failed, so we decided to try the other way around.
 		cost = 47
 		pos = -2745,1300,-1
 		icon = Squad/PartList/SimpleIcons/RDicon_propulsion-precision
@@ -7020,7 +7020,7 @@ TechTree
 		id = aerospace
 		nodepart = aerospace
 		title = Aviation
-		description = 
+		description = Breaking the sound barrier might be possible. Or it might kill our test pilots. Lets find out.
 		cost = 5
 		pos = -2895,1255,-1
 		icon = Squad/PartList/SimpleIcons/RDicon_aerospaceTech2
@@ -7055,7 +7055,7 @@ TechTree
 		id = wings
 		nodepart = wings
 		title = Swept Wings
-		description = 
+		description = After a few pooly executed landings left our wings bent back, we decided to just leave them that way.
 		cost = 7
 		pos = -2840,1185,-1
 		icon = Squad/PartList/SimpleIcons/R&D_node_icon_supersonicflight
