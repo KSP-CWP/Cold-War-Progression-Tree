@@ -103,7 +103,7 @@ TechTree
 		id = USSRstart
 		nodepart = USSRstart
 		title = Soviet Suborbital Rocketry
-		description = They told us we were gonna have to be launching really big "payloads", so we designed some really big rockets. Unfortunately we don't have the funding for any of those, so have these instead.
+		description = They told us we were gonna have to be launching really big [REDACTED], so we designed some really big rockets. Unfortunately we don't have the funding for any of them, so have these instead.
 		cost = 20
 		pos = -2800,1550,-1
 		icon = RDicon_rocketry-basic
@@ -7020,7 +7020,7 @@ TechTree
 		id = aerospace
 		nodepart = aerospace
 		title = Aviation
-		description = Breaking the sound barrier might be possible. Or it might kill our test pilots. Lets find out.
+		description = Breaking the sound barrier might be possible. Or our test pilots might die horribly. Lets find out.
 		cost = 5
 		pos = -2895,1255,-1
 		icon = Squad/PartList/SimpleIcons/RDicon_aerospaceTech2
